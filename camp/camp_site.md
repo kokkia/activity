@@ -1,8 +1,14 @@
-# camp site list
+# camp site list  
+
+kal::行ってみたいキャンプ場リスト
 
 ## 神奈川
 - バカンス村
 - 青根キャンプ場
+- ウェルキャンプ西丹沢 (https://well-camp.com/post20180607004/)
+
+## 埼玉
+- 古民家ファミリービレッジ (http://kominka-camp.com/)
 
 ## 茅ヶ崎
 - 柳島キャンプ場
