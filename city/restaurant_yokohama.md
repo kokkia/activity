@@ -1,5 +1,7 @@
 # restaurant @Yokohama
 
+## 横浜駅
+
 - Mondatta  
 045-595-9877  
 神奈川県横浜市西区南幸町2-5-4   
@@ -26,4 +28,12 @@ https://tabelog.com/kanagawa/A1401/A140101/14021004/
 神奈川県横浜市神奈川区鶴屋町2-16-4 Ftem BLDG 4F  
 https://tabelog.com/kanagawa/A1401/A140101/14063919/ 
 
-- エイジングビーフ (https://tabelog.com/kanagawa/A1401/A140212/14073774/)
+- エイジングビーフ (https://tabelog.com/kanagawa/A1401/A140212/14073774/)  
+
+- 熟成肉バルarashi  
+https://tabelog.com/kanagawa/A1401/A140101/14044941/
+
+## 桜木町，みなとみらい
+
+- 橙屋　横浜みなとみらい東急スクエア店  
+https://tabelog.com/kanagawa/A1401/A140103/14001683/
