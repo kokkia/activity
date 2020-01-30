@@ -24,4 +24,6 @@ https://tabelog.com/kanagawa/A1401/A140101/14021004/
 - ダブリュー ヨコハマ  
 050-5592-1680  
 神奈川県横浜市神奈川区鶴屋町2-16-4 Ftem BLDG 4F  
-https://tabelog.com/kanagawa/A1401/A140101/14063919/  
+https://tabelog.com/kanagawa/A1401/A140101/14063919/ 
+
+- エイジングビーフ (https://tabelog.com/kanagawa/A1401/A140212/14073774/)
