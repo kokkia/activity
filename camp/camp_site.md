@@ -1,6 +1,8 @@
 # camp site list  
 
-kal::行ってみたいキャンプ場リスト
+kal::行ってみたいキャンプ場リスト  
+  
+[キャンプ場予約サイトなっぷ](https://www.nap-camp.com/)
 
 ## 神奈川
 - [バカンス村](http://www7a.biglobe.ne.jp/~bakansumura/)
@@ -32,4 +34,7 @@ kal::行ってみたいキャンプ場リスト
 - [湖畔キャンプ場](https://saikohan.com/)
 
 ### 山中湖
-- [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)
+- [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)  
+
+## 長野
+- [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
