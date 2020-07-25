@@ -10,10 +10,13 @@ kal::行ってみたいキャンプ場リスト
 - [ウェルキャンプ西丹沢](https://well-camp.com/post20180607004/)
 - [PICA相模湖，相模湖プレジャーフォレスト内キャンプ場](https://www.pica-resort.jp/paddington/)
 - [芦ノ湖村](https://campmura.com/)
+- [小田原市いこいの村](https://www.ikoi-odawara.com/)
 
 
 ## 東京都
-- 糞福生中森　
+[氷川キャンプ場](https://www.okutamas.co.jp/hikawa/#)
+[川井キャンプ場](https://www.okutamas.co.jp/kawai/)
+
 
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
@@ -26,6 +29,9 @@ kal::行ってみたいキャンプ場リスト
 - [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)
 - [ふもっとっぱらキャンプ場](https://fumotoppara.net/)
+
+### 伊豆
+- [河津オートキャンプ場](https://kawazucamp.com/)
 
 ### 本栖湖
 - [洪庵キャンプ場](https://kouan-motosuko.com/)
