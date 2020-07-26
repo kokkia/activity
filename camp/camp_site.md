@@ -12,17 +12,17 @@ kal::行ってみたいキャンプ場リスト
 - [芦ノ湖村](https://campmura.com/)
 - [小田原市いこいの村](https://www.ikoi-odawara.com/)
 
+### 茅ヶ崎
+- [柳島キャンプ場](https://yc.tsukahara-li.co.jp/)
+
 
 ## 東京都
-[氷川キャンプ場](https://www.okutamas.co.jp/hikawa/#)
-[川井キャンプ場](https://www.okutamas.co.jp/kawai/)
+- [氷川キャンプ場](https://www.okutamas.co.jp/hikawa/#)  
+- [川井キャンプ場](https://www.okutamas.co.jp/kawai/)
 
 
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
-
-## 茅ヶ崎
-- [柳島キャンプ場](https://yc.tsukahara-li.co.jp/)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
