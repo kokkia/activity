@@ -24,6 +24,9 @@ kal::行ってみたいキャンプ場リスト
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
 
+## 山梨 
+- [道志の森キャンプ場](https://doshinomori.jp/)
+
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
 - [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
@@ -44,3 +47,4 @@ kal::行ってみたいキャンプ場リスト
 
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
+- [銀河もみじキャンプ場](https://gingamomiji.org/wp/)
