@@ -23,6 +23,7 @@ kal::行ってみたいキャンプ場リスト
 
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
+- [スプラッシュガーデン秩父](https://www.sg-chichibu.co.jp/)
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
