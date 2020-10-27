@@ -33,6 +33,13 @@ kal::行ってみたいキャンプ場リスト
 - [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)
 - [ふもっとっぱらキャンプ場](https://fumotoppara.net/)
+- [竜洋海洋公園オートキャンプ場](http://www.ryu-yo.co.jp/AUTO/)
+- [ならここの里](https://www.narakoko.info/)
+- [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)
+
+### 浜松
+- [渚園](https://www.birukan.jp/nagisaen/)
+- [秋葉オートキャンプ場](https://akiha-camp.com/)
 
 ### 伊豆
 - [河津オートキャンプ場](https://kawazucamp.com/)
