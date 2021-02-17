@@ -29,6 +29,8 @@ kal::行ってみたいキャンプ場リスト
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
+- [Sumika Camp Field](https://www.nap-camp.com/yamanashi/13903)
+- [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
@@ -51,9 +53,11 @@ kal::行ってみたいキャンプ場リスト
 
 ### 西湖
 - [湖畔キャンプ場](https://saikohan.com/)*
+- [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)
 
 ### 山中湖
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
+- [Lake Lodge Yamanaka](https://www.nap-camp.com/yamanashi/13955)
 
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
