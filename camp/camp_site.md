@@ -26,6 +26,9 @@ kal::行ってみたいキャンプ場リスト
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
 - [スプラッシュガーデン秩父](https://www.sg-chichibu.co.jp/)
 - [大冠キャンプ倶楽部](http://www.ohkanmuri-camp.jp/shisetsu/index.htm)*
+- [長瀞オートキャンプ場](https://www.nagatoro-camp.com/)
+- [秩父巴川オートキャンプ場](http://tomoegawa-camp.com/)
+- [ケーニーズファミリービレッジ](https://www.kfv.co.jp/)
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
@@ -52,8 +55,8 @@ kal::行ってみたいキャンプ場リスト
 - [洪庵キャンプ場](https://kouan-motosuko.com/)*
 
 ### 西湖
-- [湖畔キャンプ場](https://saikohan.com/)*
-- [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)
+- [湖畔キャンプ場](https://saikohan.com/)
+- [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)*
 
 ### 山中湖
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
