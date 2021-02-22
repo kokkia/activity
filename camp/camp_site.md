@@ -29,6 +29,7 @@ kal::行ってみたいキャンプ場リスト
 - [長瀞オートキャンプ場](https://www.nagatoro-camp.com/)
 - [秩父巴川オートキャンプ場](http://tomoegawa-camp.com/)
 - [ケーニーズファミリービレッジ](https://www.kfv.co.jp/)
+- [フォレストサンズ長瀞](http://forestsons.jp/)
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
