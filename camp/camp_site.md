@@ -7,6 +7,8 @@ kal::行ってみたいキャンプ場リスト
 ## 東京都
 - [氷川キャンプ場](https://www.okutamas.co.jp/hikawa/#)*
 - [川井キャンプ場](https://www.okutamas.co.jp/kawai/)
+- [百軒茶屋キャンプ場](https://www.hyakkenjaya.com/)
+- [北秋川自然休暇村](http://www.kitaakigawa-qkamura.jp/)
 
 ## 神奈川
 - [バカンス村](http://www7a.biglobe.ne.jp/~bakansumura/)*
@@ -14,9 +16,9 @@ kal::行ってみたいキャンプ場リスト
 - [ウェルキャンプ西丹沢](https://well-camp.com/post20180607004/)
 - [PICA相模湖，相模湖プレジャーフォレスト内キャンプ場](https://www.pica-resort.jp/paddington/)*
 - [芦ノ湖村](https://campmura.com/)
+- [青野原野呂ロッジキャンプ場](https://norolodge.com/)
+- [新戸キャンプ場](https://shindocamp.com/map)
 - [小田原市いこいの村](https://www.ikoi-odawara.com/)
-
-### 茅ヶ崎
 - [柳島キャンプ場](https://yc.tsukahara-li.co.jp/)
 
 ## 千葉  
