@@ -46,6 +46,7 @@ kal::行ってみたいキャンプ場リスト
 - [竜洋海洋公園オートキャンプ場](http://www.ryu-yo.co.jp/AUTO/)
 - [ならここの里](https://www.narakoko.info/)
 - [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)*
+- [精進湖湖キャンピングコテージ](https://shojiko.jp/index.html)
 
 ### 浜松
 - [渚園](https://www.birukan.jp/nagisaen/)
@@ -56,10 +57,13 @@ kal::行ってみたいキャンプ場リスト
 
 ### 本栖湖
 - [洪庵キャンプ場](https://kouan-motosuko.com/)*
+- [本栖湖いこいの森キャンプ場](http://www.motosuko.jp/)
+- [本栖湖キャンプ場](http://www.motosuko-camp.com/index.html)
 
 ### 西湖
 - [湖畔キャンプ場](https://saikohan.com/)
 - [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)*
+- [西湖自由キャンプ場](http://saiko-jiyuu.camp/)
 
 ### 山中湖
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
