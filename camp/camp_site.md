@@ -16,7 +16,7 @@ kal::行ってみたいキャンプ場リスト
 - [ウェルキャンプ西丹沢](https://well-camp.com/post20180607004/)
 - [PICA相模湖，相模湖プレジャーフォレスト内キャンプ場](https://www.pica-resort.jp/paddington/)*
 - [芦ノ湖村](https://campmura.com/)
-- [青野原野呂ロッジキャンプ場](https://norolodge.com/)
+- [青野原野呂ロッジキャンプ場](https://norolodge.com/)*
 - [新戸キャンプ場](https://shindocamp.com/map)
 - [小田原市いこいの村](https://www.ikoi-odawara.com/)
 - [柳島キャンプ場](https://yc.tsukahara-li.co.jp/)
@@ -72,6 +72,15 @@ kal::行ってみたいキャンプ場リスト
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
 - [銀河もみじキャンプ場](https://gingamomiji.org/wp/)
+- [安らぎの森オートキャンプ場](https://yasuragi.natureservice.jp/)
 
 ## 栃木  
 - [グリフ前日光店](https://www.nap-camp.com/tochigi/14354)
+
+
+## 無料?で使用できるキャンプ場
+ただし、管理者、水場等なし
+
+- [中津川河川敷](https://www.lantern.camp/?p=56762)
+- [日影沢キャンプ場](https://www.rinya.maff.go.jp/kanto/takao/campzyo/campzyo.html)
+- [蛇石キャンプ場](http://kankou.town.tatsuno.nagano.jp/play/info/jaishi-camp.html)
