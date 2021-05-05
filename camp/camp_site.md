@@ -35,7 +35,6 @@ kal::行ってみたいキャンプ場リスト
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
-- [Sumika Camp Field](https://www.nap-camp.com/yamanashi/13903)
 - [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
 
 ## 静岡方面
@@ -57,13 +56,20 @@ kal::行ってみたいキャンプ場リスト
 
 ### 本栖湖
 - [洪庵キャンプ場](https://kouan-motosuko.com/)*
+- [洪庵テント村](https://kouan-motosuko.com/tento/)
 - [本栖湖いこいの森キャンプ場](http://www.motosuko.jp/)
 - [本栖湖キャンプ場](http://www.motosuko-camp.com/index.html)
+- [本栖湖レークサイドキャンプ場](http://www5b.biglobe.ne.jp/~lakesido/)
+- [Sumika Camp Field](https://www.nap-camp.com/yamanashi/13903)
 
 ### 西湖
-- [湖畔キャンプ場](https://saikohan.com/)
+- [西湖湖畔キャンプ場](https://saikohan.com/)
 - [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)*
 - [西湖自由キャンプ場](http://saiko-jiyuu.camp/)
+- [PICA富士西湖](https://www.pica-resort.jp/saiko/index.html)
+- [紅葉台キャンプ場](https://www.koyodai.info/)
+- [西湖津原キャンプ場](http://tsuhara-camp.jp/)
+- [福住オートキャンプ場](https://www.snowpeak.co.jp/spc/index-mode=keyword&id=735557.html)
 
 ### 山中湖
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
