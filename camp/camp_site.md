@@ -36,16 +36,17 @@ kal::行ってみたいキャンプ場リスト
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
 - [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
+- [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
+- [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
 - [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
-- [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [ふもっとっぱらキャンプ場](https://fumotoppara.net/)
 - [竜洋海洋公園オートキャンプ場](http://www.ryu-yo.co.jp/AUTO/)
 - [ならここの里](https://www.narakoko.info/)
 - [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)*
-- [精進湖湖キャンピングコテージ](https://shojiko.jp/index.html)
+- [精進湖キャンピングコテージ](https://shojiko.jp/index.html)
 
 ### 浜松
 - [渚園](https://www.birukan.jp/nagisaen/)
@@ -75,10 +76,14 @@ kal::行ってみたいキャンプ場リスト
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
 - [Lake Lodge Yamanaka](https://www.nap-camp.com/yamanashi/13955)
 
+### 田貫湖
+- [田貫湖キャンプ場](https://tanukiko.com/)
+
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
 - [銀河もみじキャンプ場](https://gingamomiji.org/wp/)
 - [安らぎの森オートキャンプ場](https://yasuragi.natureservice.jp/)
+- [阿寺渓谷キャンプ場](https://www.nap-camp.com/nagano/12321)
 
 ## 栃木  
 - [グリフ前日光店](https://www.nap-camp.com/tochigi/14354)
