@@ -39,6 +39,7 @@ kal::行ってみたいキャンプ場リスト
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
 - [四尾連湖キャンプ場](http://shibirekosms.sub.jp/)
+- [スリーストーンキャンプ場](https://www.threestone-bar-bbq-camp.com/)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
