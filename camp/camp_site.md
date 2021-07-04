@@ -38,6 +38,7 @@ kal::行ってみたいキャンプ場リスト
 - [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
+- [四尾連湖キャンプ場](http://shibirekosms.sub.jp/)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
@@ -84,6 +85,7 @@ kal::行ってみたいキャンプ場リスト
 - [銀河もみじキャンプ場](https://gingamomiji.org/wp/)
 - [安らぎの森オートキャンプ場](https://yasuragi.natureservice.jp/)
 - [阿寺渓谷キャンプ場](https://www.nap-camp.com/nagano/12321)
+- [駒出池キャンプ場](https://yachiho-kogen.com/camp/)
 
 ## 栃木  
 - [グリフ前日光店](https://www.nap-camp.com/tochigi/14354)
