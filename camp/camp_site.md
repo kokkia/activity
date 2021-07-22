@@ -29,9 +29,11 @@ kal::行ってみたいキャンプ場リスト
 - [スプラッシュガーデン秩父](https://www.sg-chichibu.co.jp/)
 - [大冠キャンプ倶楽部](http://www.ohkanmuri-camp.jp/shisetsu/index.htm)*
 - [長瀞オートキャンプ場](https://www.nagatoro-camp.com/)
+    - 2カ月前の1日にネット予約開始
 - [秩父巴川オートキャンプ場](http://tomoegawa-camp.com/)
 - [ケーニーズファミリービレッジ](https://www.kfv.co.jp/)
 - [フォレストサンズ長瀞](http://forestsons.jp/)
+- [嵐山渓谷月川壮キャンプ場](https://tukigawasou.jimdofree.com/)
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
@@ -39,7 +41,8 @@ kal::行ってみたいキャンプ場リスト
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
 - [四尾連湖キャンプ場](http://shibirekosms.sub.jp/)
-- [スリーストーンキャンプ場](https://www.threestone-bar-bbq-camp.com/)
+- [スリーストーンキャンプ場](https://www.threestone-bar-bbq-camp.com/)  
+    - 2カ月前の1日に電話予約開始
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
@@ -64,6 +67,8 @@ kal::行ってみたいキャンプ場リスト
 - [本栖湖キャンプ場](http://www.motosuko-camp.com/index.html)
 - [本栖湖レークサイドキャンプ場](http://www5b.biglobe.ne.jp/~lakesido/)
 - [Sumika Camp Field](https://www.nap-camp.com/yamanashi/13903)
+    - 林間サイト良い
+    - 平地は風強い
 
 ### 西湖
 - [西湖湖畔キャンプ場](https://saikohan.com/)
@@ -80,6 +85,7 @@ kal::行ってみたいキャンプ場リスト
 
 ### 田貫湖
 - [田貫湖キャンプ場](https://tanukiko.com/)
+    - 1カ月前の水曜日の10:00予約開始
 
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
