@@ -37,6 +37,7 @@ kal::行ってみたいキャンプ場リスト
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
+    - 広すぎてだいたい空きがあるらしい
 - [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
@@ -52,6 +53,7 @@ kal::行ってみたいキャンプ場リスト
 - [ならここの里](https://www.narakoko.info/)
 - [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)*
 - [精進湖キャンピングコテージ](https://shojiko.jp/index.html)
+- [富士山YMCA](https://www.yokohamaymca.org/fujisan-global/)
 
 ### 浜松
 - [渚園](https://www.birukan.jp/nagisaen/)
@@ -61,7 +63,8 @@ kal::行ってみたいキャンプ場リスト
 - [河津オートキャンプ場](https://kawazucamp.com/)
 
 ### 本栖湖
-- [洪庵キャンプ場](https://kouan-motosuko.com/)*
+- [洪庵キャンプ場](https://kouan-motosuko.com/)**
+    - 2カ月前の1日に予約開始
 - [洪庵テント村](https://kouan-motosuko.com/tento/)
 - [本栖湖いこいの森キャンプ場](http://www.motosuko.jp/)
 - [本栖湖キャンプ場](http://www.motosuko-camp.com/index.html)
@@ -69,11 +72,12 @@ kal::行ってみたいキャンプ場リスト
 - [Sumika Camp Field](https://www.nap-camp.com/yamanashi/13903)
     - 林間サイト良い
     - 平地は風強い
+    - 穴場、人少ない
 
 ### 西湖
 - [西湖湖畔キャンプ場](https://saikohan.com/)
 - [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)*
-- [西湖自由キャンプ場](http://saiko-jiyuu.camp/)
+- [西湖自由キャンプ場](http://saiko-jiyuu.camp/)*
 - [PICA富士西湖](https://www.pica-resort.jp/saiko/index.html)
 - [紅葉台キャンプ場](https://www.koyodai.info/)
 - [西湖津原キャンプ場](http://tsuhara-camp.jp/)
