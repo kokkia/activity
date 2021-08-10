@@ -9,6 +9,7 @@ kal::行ってみたいキャンプ場リスト
 - [川井キャンプ場](https://www.okutamas.co.jp/kawai/)
 - [百軒茶屋キャンプ場](https://www.hyakkenjaya.com/)
 - [北秋川自然休暇村](http://www.kitaakigawa-qkamura.jp/)
+- [大岳キャンプ場](http://ootakecave.com/)
 
 ## 神奈川
 - [バカンス村](http://www7a.biglobe.ne.jp/~bakansumura/)*
@@ -20,6 +21,7 @@ kal::行ってみたいキャンプ場リスト
 - [新戸キャンプ場](https://shindocamp.com/map)
 - [小田原市いこいの村](https://www.ikoi-odawara.com/)
 - [柳島キャンプ場](https://yc.tsukahara-li.co.jp/)
+- [神之川キャンプ場](https://kannogawa.jp/)
 
 ## 千葉  
 - [RECAMP勝浦](https://www.nap-camp.com/chiba/11973)*
@@ -34,6 +36,7 @@ kal::行ってみたいキャンプ場リスト
 - [ケーニーズファミリービレッジ](https://www.kfv.co.jp/)
 - [フォレストサンズ長瀞](http://forestsons.jp/)
 - [嵐山渓谷月川壮キャンプ場](https://tukigawasou.jimdofree.com/)
+- [ウォーターパーク長瀞](https://waterpark.jp/)
 
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
@@ -44,6 +47,7 @@ kal::行ってみたいキャンプ場リスト
 - [四尾連湖キャンプ場](http://shibirekosms.sub.jp/)
 - [スリーストーンキャンプ場](https://www.threestone-bar-bbq-camp.com/)  
     - 2カ月前の1日に電話予約開始
+- [芦川オートキャンプ場](http://ashigawa.starfree.jp/)
 
 ## 静岡方面
 - [朝霧ジャンボリー](http://asagiri-camp.net/)
@@ -75,7 +79,7 @@ kal::行ってみたいキャンプ場リスト
     - 穴場、人少ない
 
 ### 西湖
-- [西湖湖畔キャンプ場](https://saikohan.com/)
+- [西湖湖畔キャンプ場](https://saikohan.com/)*
 - [西湖キャンプビレッジノーム](https://www.nap-camp.com/yamanashi/13592)*
 - [西湖自由キャンプ場](http://saiko-jiyuu.camp/)*
 - [PICA富士西湖](https://www.pica-resort.jp/saiko/index.html)
@@ -97,9 +101,15 @@ kal::行ってみたいキャンプ場リスト
 - [安らぎの森オートキャンプ場](https://yasuragi.natureservice.jp/)
 - [阿寺渓谷キャンプ場](https://www.nap-camp.com/nagano/12321)
 - [駒出池キャンプ場](https://yachiho-kogen.com/camp/)
+- [おおぐて湖キャンプ場](https://www.lake-oogute.club/)
 
 ## 栃木  
 - [グリフ前日光店](https://www.nap-camp.com/tochigi/14354)
+- [鳥野目河川公園オートキャンプ場](http://www.torinome.jp/)
+- [オートキャンプ那珂川ステーション](http://www.naka-station.jp/)
+
+## 群馬
+- [菅沼キャンプ村](https://www.sugenuma.com/)
 
 
 ## 無料?で使用できるキャンプ場
