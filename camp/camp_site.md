@@ -14,7 +14,7 @@ kal::行ってみたいキャンプ場リスト
 ## 神奈川
 - [バカンス村](http://www7a.biglobe.ne.jp/~bakansumura/)*
 - [青根キャンプ場](http://aonecamp.jp/)
-- [ウェルキャンプ西丹沢](https://well-camp.com/post20180607004/)
+- [ウェルキャンプ西丹沢](https://well-camp.com/)
 - [PICA相模湖，相模湖プレジャーフォレスト内キャンプ場](https://www.pica-resort.jp/paddington/)*
 - [芦ノ湖村](https://campmura.com/)
 - [青野原野呂ロッジキャンプ場](https://norolodge.com/)*
@@ -25,6 +25,9 @@ kal::行ってみたいキャンプ場リスト
 
 ## 千葉  
 - [RECAMP勝浦](https://www.nap-camp.com/chiba/11973)*
+
+## 茨城
+- [親沢公園キャンプ場](http://ibamachi-kankou.jp/stay/469)
 
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
@@ -91,6 +94,9 @@ kal::行ってみたいキャンプ場リスト
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
 - [Lake Lodge Yamanaka](https://www.nap-camp.com/yamanashi/13955)
 
+### 精進湖
+- [精進湖キャンプコテージ](https://shojiko.jp/)
+
 ### 田貫湖
 - [田貫湖キャンプ場](https://tanukiko.com/)
     - 1カ月前の水曜日の10:00予約開始
@@ -107,9 +113,12 @@ kal::行ってみたいキャンプ場リスト
 - [グリフ前日光店](https://www.nap-camp.com/tochigi/14354)
 - [鳥野目河川公園オートキャンプ場](http://www.torinome.jp/)
 - [オートキャンプ那珂川ステーション](http://www.naka-station.jp/)
+- [CAMP RABBIT 那須](http://www.camp-rabbit.com/#/Index)
 
 ## 群馬
 - [菅沼キャンプ村](https://www.sugenuma.com/)
+- [菖蒲ヶ浜キャンプ村](http://www.shoubugahama.co.jp/)
+- [野反湖キャンプ場](https://nozorikocamp.com/)
 
 
 ## 無料?で使用できるキャンプ場
