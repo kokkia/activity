@@ -10,6 +10,7 @@ kal::行ってみたいキャンプ場リスト
 - [百軒茶屋キャンプ場](https://www.hyakkenjaya.com/)
 - [北秋川自然休暇村](http://www.kitaakigawa-qkamura.jp/)
 - [大岳キャンプ場](http://ootakecave.com/)
+- [陣馬形山キャンプ場](https://jinbagata.life/)
 
 ## 神奈川
 - [バカンス村](http://www7a.biglobe.ne.jp/~bakansumura/)*
@@ -28,10 +29,13 @@ kal::行ってみたいキャンプ場リスト
 
 ## 茨城
 - [親沢公園キャンプ場](http://ibamachi-kankou.jp/stay/469)
+- [RECAMP常総](https://www.nap-camp.com/ibaraki/10145)
+- [上小川レジャーペンション](https://www.kamiogawa.net/)
 
 ## 埼玉
 - [古民家ファミリービレッジ](http://kominka-camp.com/)
 - [スプラッシュガーデン秩父](https://www.sg-chichibu.co.jp/)
+    - コテージがきれい
 - [大冠キャンプ倶楽部](http://www.ohkanmuri-camp.jp/shisetsu/index.htm)*
 - [長瀞オートキャンプ場](https://www.nagatoro-camp.com/)
     - 2カ月前の1日にネット予約開始
@@ -44,30 +48,15 @@ kal::行ってみたいキャンプ場リスト
 ## 山梨 
 - [道志の森キャンプ場](https://doshinomori.jp/)
     - 広すぎてだいたい空きがあるらしい
-- [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
 - [ほったらかしキャンプ場](https://hottarakashicamp.com/)*
 - [パインウッドオートキャンプ場](https://hinata.me/article/1146266217988266909)
 - [四尾連湖キャンプ場](http://shibirekosms.sub.jp/)
 - [スリーストーンキャンプ場](https://www.threestone-bar-bbq-camp.com/)  
     - 2カ月前の1日に電話予約開始
 - [芦川オートキャンプ場](http://ashigawa.starfree.jp/)
-
-## 静岡方面
-- [朝霧ジャンボリー](http://asagiri-camp.net/)
-- [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
-- [ふもっとっぱらキャンプ場](https://fumotoppara.net/)
-- [竜洋海洋公園オートキャンプ場](http://www.ryu-yo.co.jp/AUTO/)
-- [ならここの里](https://www.narakoko.info/)
-- [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)*
-- [精進湖キャンピングコテージ](https://shojiko.jp/index.html)
-- [富士山YMCA](https://www.yokohamaymca.org/fujisan-global/)
-
-### 浜松
-- [渚園](https://www.birukan.jp/nagisaen/)
-- [秋葉オートキャンプ場](https://akiha-camp.com/)
-
-### 伊豆
-- [河津オートキャンプ場](https://kawazucamp.com/)
+- [清里丘の公園オートキャンプ場](https://www.nap-camp.com/yamanashi/11339)
+- [清里中央オートキャンプ場](http://www.autocamp.co.jp/)
+- [山伏オートキャンプ場](https://www.navi-city.com/yamabushi/)
 
 ### 本栖湖
 - [洪庵キャンプ場](https://kouan-motosuko.com/)**
@@ -89,7 +78,7 @@ kal::行ってみたいキャンプ場リスト
 - [紅葉台キャンプ場](https://www.koyodai.info/)
 - [西湖津原キャンプ場](http://tsuhara-camp.jp/)
 - [福住オートキャンプ場](https://www.snowpeak.co.jp/spc/index-mode=keyword&id=735557.html)
-
+- [山中湖みなみオートキャンプ場](https://www.minami-camp.com/)
 ### 山中湖
 - [小田急山中湖フォレストコテージ](http://www.odakyu-forest.com/)*
 - [Lake Lodge Yamanaka](https://www.nap-camp.com/yamanashi/13955)
@@ -100,6 +89,24 @@ kal::行ってみたいキャンプ場リスト
 ### 田貫湖
 - [田貫湖キャンプ場](https://tanukiko.com/)
     - 1カ月前の水曜日の10:00予約開始
+
+## 静岡方面
+- [朝霧ジャンボリー](http://asagiri-camp.net/)
+- [Pica 富士ぐりんぱ](https://www.pica-resort.jp/grinpa/)
+- [ふもっとっぱらキャンプ場](https://fumotoppara.net/)
+- [竜洋海洋公園オートキャンプ場](http://www.ryu-yo.co.jp/AUTO/)
+- [ならここの里](https://www.narakoko.info/)
+- [不動の滝自然広場オートキャンプ場](http://ffnpcs.com/)*
+- [精進湖キャンピングコテージ](https://shojiko.jp/index.html)
+- [富士山YMCA](https://www.yokohamaymca.org/fujisan-global/)
+- [アプトいちしろキャンプ場](https://abt-camp.shizu.website/)
+
+### 浜松
+- [渚園](https://www.birukan.jp/nagisaen/)
+- [秋葉オートキャンプ場](https://akiha-camp.com/)
+
+### 伊豆
+- [河津オートキャンプ場](https://kawazucamp.com/)
 
 ## 長野
 - [石坂森林探検村](https://www.otarinatureschool.net/tankenmuracamp)
@@ -119,6 +126,7 @@ kal::行ってみたいキャンプ場リスト
 - [菅沼キャンプ村](https://www.sugenuma.com/)
 - [菖蒲ヶ浜キャンプ村](http://www.shoubugahama.co.jp/)
 - [野反湖キャンプ場](https://nozorikocamp.com/)
+- [outsideBase](https://outsidebase.com/)
 
 
 ## 無料?で使用できるキャンプ場
